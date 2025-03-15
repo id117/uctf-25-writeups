@@ -1,0 +1,8 @@
+дан зашифрованный флаг:
+```
+TF_U{ac8f32df942381H_LGI:CFc35c7a0a0bda3af38fc6b04a870b1}EAST88ba5489b7f0a1f
+```
+Название шифра совпадает с названием задачи (zigzag, он же rail fence cipher).
+
+Расшифровать можно как руками, так и с помощью онлайн-сервисов:
+https://cryptii.com/pipes/rail-fence-cipher
